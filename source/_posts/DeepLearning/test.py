@@ -1,9 +1,3 @@
-def AND(x1,x2):
-  w1, w2, theta = 0.5, 0.5, 0.7
-  tmp = x1*w1 + x2*w2
-  if tmp <= theta:
-    return 0
-  elif tmp > theta:
-    return 1
-
-print(AND(2,2))
+import sys, os
+sys.path.append(os.pardir) # 부모 디렉터리의 파일을 가져올 수 있도록 설정
+from dataset.mnist import load_mnist
