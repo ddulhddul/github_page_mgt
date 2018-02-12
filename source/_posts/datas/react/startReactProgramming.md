@@ -9,7 +9,7 @@ tags:
   - javascript
   - react
 ---
-![/images/시작하세요리액트프로그래밍/표지.jpg](/images/시작하세요리액트프로그래밍/표지.jpg)
+![/images/startReactProgramming/cover.jpg](/images/startReactProgramming/cover.jpg)
 # 01. Hello World
 [리액트 다운로드 URL](https://react-cn.github.io/react/downloads.html)
 
@@ -47,7 +47,7 @@ React.DOM.h1({id: 'my-heading'}, "hello world")
 ```
 
 ## 특수한 DOM 속성
-- 반드시 알아야할 DOM 속성 **claa, for, style**
+- 반드시 알아야할 DOM 속성 **className, for, style**
 - class는 자바스크립트 예약어 이므로, 대신 className, htmlFor 가 필요.
 ```js
 React.DOM.h1({
@@ -163,7 +163,7 @@ myTextAreaCounter.props;
 myTextAreaCounter.state;
 ```
 
-## 수면 주기 메서드
+## 수명 주기 메서드
 ```js
 var logMixin = {
     _log: function(methodName, args){
