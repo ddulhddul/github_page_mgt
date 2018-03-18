@@ -12,6 +12,8 @@ tags:
 
 ## React 적용 가이드 - React와 Redux
 [http://d2.naver.com/helloworld/1848131](http://d2.naver.com/helloworld/1848131)
+- Sample Code
+  [https://github.com/naver/react-sample-code](https://github.com/naver/react-sample-code)
 
 ### Redux
 [https://deminoth.github.io/redux/](https://deminoth.github.io/redux/)
