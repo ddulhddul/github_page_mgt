@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
+    "clean-css": "^4.2.1",
     "hexo": "^3.8.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-deployer-git": "^1.0.0",
@@ -22,6 +23,10 @@
     "hexo-renderer-pug": "0.0.5",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.2",
-    "sshpk": "^1.16.1"
+    "marked": "^0.6.2",
+    "morgan": "^1.9.1",
+    "randomatic": "^3.1.1",
+    "sshpk": "^1.16.1",
+    "uglify-js": "^3.6.0"
   }
 }
