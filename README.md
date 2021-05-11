@@ -7,3 +7,10 @@
 ## LiveRe
 [https://livere.com/](https://livere.com/)
 
+
+
+```bash
+hexo server
+hexo clean
+hexo deploy
+```

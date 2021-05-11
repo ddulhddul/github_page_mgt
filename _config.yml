@@ -90,3 +90,4 @@ archive_generator:
 deploy: 
   type: git
   repo: https://github.com/ddulhddul/ddulhddul.github.io
+  branch: master
